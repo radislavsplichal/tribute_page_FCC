@@ -1,1 +1,10 @@
 /* This style just sets some minor details for the page */
+#title {
+    text-align: center;
+}
+#img {
+    
+}
+.col-sm-8 {
+    background-color: gainsboro;
+}
